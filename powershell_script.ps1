@@ -9,3 +9,4 @@ Write-Output $x
 Write-Output $y
 [array]$z = @(1,2,3)
 Write-Host $z
+$c
